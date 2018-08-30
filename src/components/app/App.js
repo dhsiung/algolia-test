@@ -14,6 +14,7 @@ class App extends Component {
 
   // Static Vars
   // TODO: Move this into a non-version control environment variable
+  // test
 
   static ENV_VARS = { algolia: {
     appId: '7TU0P6ANQY',
