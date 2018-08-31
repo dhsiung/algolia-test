@@ -84,7 +84,7 @@ Next, you will then need to configure your index, determine the priority of sear
 
 Lastly, you will need to add an Algolia search box to your website, and make API calls to our Algolia servers to display the results back on your website. (You can find your API key in your dashboard). This is where our JavaScript libraries come in handy, offering several tools such as filtering, auto-complete, and search as you type. We support several frameworks including React, Angular, Vue.js, iOS, and Android. [You can find more information on our libraries here.](https://www.algolia.com/doc/guides/search-ui/search-libraries/)
 
-If your data changes, you will need to make sure your data is synced to the Algolia servers so that we can display up to date search results for your website. This can vary depending on often your data changes.
+If your data changes, you will need to make sure your data is synced to the Algolia servers so that we can display up to date search results for your website. This can vary depending on how often your data changes.
 
 [Here is a link to several tutorials](https://www.algolia.com/doc/tutorials/) that go more in-depth into each of the steps above that I covered. If you need help any more help, please don't hesitate to reach out!
 
