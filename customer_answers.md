@@ -19,7 +19,7 @@ The data that you are importing would be what we refer to as **Records** also re
 There are three ways to index your records:
 
 1) Indexing via the API (recommended)
-This method of indexing requires you to iterate through your records, clean it up, and push your records to Algolia using our API client. Here are more details on [indexing via API](https://www.algolia.com/doc/guides/indexing/indexing-overview/#indexing-via-the-api) and how to [format your data](https://www.algolia.com/doc/guides/indexing/structuring-your-data/). If you choose this route I am happy to answer anymore additional questions to help you get set up.
+This method of indexing requires you to iterate through your records, clean it up, and push your records to Algolia using our API client. Here are more details on [indexing via API](https://www.algolia.com/doc/guides/indexing/indexing-overview/#indexing-via-the-api) and how to [format your data](https://www.algolia.com/doc/guides/indexing/structuring-your-data/). If you choose this route I am happy to answer any additional questions to help you get set up.
 
 2) Indexing via Dashboard
 This method of indexing involves adding your records (via JSON format) manually via our dashboard, or by uploading files (which can be JSON, CSV, or TSV). This is great for trying things out, not recommended for production environments.
